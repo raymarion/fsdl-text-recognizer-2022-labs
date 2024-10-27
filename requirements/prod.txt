@@ -86,7 +86,7 @@ fsspec==2023.6.0
     #   gradio-client
     #   huggingface-hub
     #   torch
-gantry==0.4.9
+# gantry==0.4.9
     # via -r requirements/prod.in
 gradio==3.40.1
     # via -r requirements/prod.in
